@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi there 👋 
+### 🔭 I’m currently working on 
+ - MyLittleGameEngine  
+### 🌱 I’m currently learning 
+ - Modern C++
+ - Vulkan
+ - Computer Graphics
 <!--
 **frankpyf/frankpyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
