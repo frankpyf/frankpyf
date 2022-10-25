@@ -6,6 +6,10 @@
  - Vulkan
  - Computer Graphics
  - [GAMES 101, 104, 202](https://games-cn.org/)
+ 
+### Previous attempts
+ ![InkWash](https://github.com/frankpyf/frankpyf/blob/main/InkWash.PNG)
+ ![ToonShading](https://github.com/frankpyf/frankpyf/blob/main/ToonShading.PNG)
 <!--
 **frankpyf/frankpyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
