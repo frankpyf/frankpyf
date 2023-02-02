@@ -10,7 +10,7 @@
 ### Previous attempts
  ![InkWash](https://github.com/frankpyf/frankpyf/blob/main/InkWash.PNG)
  ![ToonShading](https://github.com/frankpyf/frankpyf/blob/main/ToonShading.PNG)
- ![PBRAtmosphere](without optimization)(https://github.com/frankpyf/frankpyf/blob/main/PBR_Atmosphere.png)
+ ![PBRAtmosphere(without optimization)](https://github.com/frankpyf/frankpyf/blob/main/PBR_Atmosphere.png)
 <!--
 **frankpyf/frankpyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
