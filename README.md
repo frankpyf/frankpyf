@@ -10,7 +10,8 @@
 ### Previous attempts
  ![InkWash](https://github.com/frankpyf/frankpyf/blob/main/InkWash.PNG)
  ![ToonShading](https://github.com/frankpyf/frankpyf/blob/main/ToonShading.PNG)
- ![PBRAtmosphere](https://github.com/frankpyf/frankpyf/blob/main/PBR_Atmosphere.png)
+ ![PBRAtmosphere](https://github.com/frankpyf/frankpyf/blob/main/白天.png)
+ ![Ray Marching Cloud](https://github.com/frankpyf/frankpyf/blob/main/屏幕截图 2023-05-17 232925.png)
 <!--
 **frankpyf/frankpyf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
