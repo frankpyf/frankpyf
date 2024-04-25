@@ -1,11 +1,11 @@
 ### Hi there 👋 
 ### 🔭 I’m currently working on 
- - [SDL Tetris Clone](https://github.com/frankpyf/TetrisClone)
+ - [MSc CS Final Project](https://github.com/SpongeBob1008/COMP7705_Project)
+ - [Submodule of MSc Project](https://github.com/frankpyf/DungeonGeneratorDemo)
 ### 🌱 I’m currently learning 
  - Modern C++
  - Vulkan
- - Computer Graphics
- - [GAMES 101, 104, 202](https://games-cn.org/)
+ - Computer Graphics (Animation, Simulation, Rendering)
  
 ### Previous attempts
  ![InkWash](https://github.com/frankpyf/frankpyf/blob/main/InkWash.PNG)
